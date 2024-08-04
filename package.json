@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://simondevyoutube.github.io/Quick_MinecraftClone2/",
+  "homepage": "https://gauravyad12.github.io/MinecraftClone-main/",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d dist",
